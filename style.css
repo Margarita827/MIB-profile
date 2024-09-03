@@ -1,7 +1,7 @@
 :root {
-  --branding-color: rgb(231, 157, 9);
-  --secondary-color: rgb(253, 240, 225);
-  --buttons: rgb(155, 124, 234);
+  --branding-color: rgb(0, 86, 181);
+  --secondary-color: rgb(231, 231, 247);
+  --buttons: rgb(154, 126, 223);
   --heading-font: "Roboto Slab", serif;
 }
 
